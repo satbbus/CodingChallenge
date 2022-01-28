@@ -4,6 +4,9 @@ public class MntGanesh {
 
     public static void main(String[] args) {
 
+        String abc = "sateesh";
+
+
         int N = 00000;
 
         int enable_print = N % 10;
